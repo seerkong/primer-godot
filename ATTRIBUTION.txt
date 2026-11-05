@@ -1,0 +1,19 @@
+Primer
+======
+
+Original production:
+  Primer (2025)
+  by DJ_Level_3 and Marv1994 / BUS ERROR Collective
+  1st place, Wild + Crowd Favorite — Revision 2025
+  Meteoriks 2025, New Talent
+
+  License: Creative Commons Attribution-ShareAlike 4.0 International
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+  https://www.pouet.net/prod.php?which=103998
+  https://www.youtube.com/watch?v=6DifrkaALOg
+  https://files.scene.org/view/parties/2025/revision25/wild/primer-final.flac
+
+This Godot recreation visualizes the original stereo XY signal
+(left channel = X, right channel = Y) on a software CRT, and ships
+a procedural fallback that uses the same rendering path.

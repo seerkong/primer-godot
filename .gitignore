@@ -1,0 +1,10 @@
+.godot/
+.import/
+.mono/
+export/
+*.translation
+.DS_Store
+*.uid
+tools/
+/tmp/
+primer_preview.png
